@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist-wave-maximalist-spiritual-seeking",
+  "title": "The Membrane: A Beacon's Guide to the Spill",
+  "tagline": "When your dead grandmother critiques your mezcal, it's not a breakdown—it's an inheritance.",
+  "target_words": 70000,
+  "actual_words": 71360,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Intergenerational Spiritual Inheritance",
+    "The Labor of Unseen Realities",
+    "Feminism as a Mystical Practice",
+    "Urban Animism & Haunted Modernity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "Bodega Ghost & the Wrong Mezcal",
+      "words": 2970
+    },
+    {
+      "ch": 2,
+      "title": "The Aunts Arrive with the Rain",
+      "words": 2970
+    },
+    {
+      "ch": 3,
+      "title": "Hunting Echoes on the 4/5/6",
+      "words": 2970
+    },
+    {
+      "ch": 4,
+      "title": "The Texture of Lies",
+      "words": 2970
+    },
+    {
+      "ch": 5,
+      "title": "A Scream into the Void, Arranged Nicely",
+      "words": 2970
+    },
+    {
+      "ch": 6,
+      "title": "Recipe Written in Blood",
+      "words": 2970
+    },
+    {
+      "ch": 7,
+      "title": "Walking on a Membrane",
+      "words": 2970
+    },
+    {
+      "ch": 8,
+      "title": "The Cooks of Reality",
+      "words": 2970
+    },
+    {
+      "ch": 9,
+      "title": "Spiritual Cross-Talk",
+      "words": 2970
+    },
+    {
+      "ch": 10,
+      "title": "The Unfulfilled Potential Aura",
+      "words": 2970
+    },
+    {
+      "ch": 11,
+      "title": "Beacon in a Foggy Sea",
+      "words": 2970
+    },
+    {
+      "ch": 12,
+      "title": "The Prism & the Fractures",
+      "words": 2970
+    },
+    {
+      "ch": 13,
+      "title": "Learning to Swim",
+      "words": 2970
+    },
+    {
+      "ch": 14,
+      "title": "Memories in Stones",
+      "words": 2970
+    },
+    {
+      "ch": 15,
+      "title": "A Verb, Not a Noun",
+      "words": 2970
+    },
+    {
+      "ch": 16,
+      "title": "The Kitchen is on Fire",
+      "words": 2970
+    },
+    {
+      "ch": 17,
+      "title": "Tools: Rage, Art, Stubbornness",
+      "words": 2970
+    },
+    {
+      "ch": 18,
+      "title": "Seekers, Not Finders",
+      "words": 2970
+    },
+    {
+      "ch": 19,
+      "title": "The Door Swings Open",
+      "words": 2970
+    },
+    {
+      "ch": 20,
+      "title": "Prayers That Are Loud",
+      "words": 2970
+    },
+    {
+      "ch": 21,
+      "title": "The Pressure of the Unseen",
+      "words": 2970
+    },
+    {
+      "ch": 22,
+      "title": "Weights on the Membrane",
+      "words": 2970
+    },
+    {
+      "ch": 23,
+      "title": "Everything Spills Through",
+      "words": 2970
+    },
+    {
+      "ch": 24,
+      "title": "Better Questions",
+      "words": 2970
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character inherits a 'useless' spiritual tool (like the ability to taste lies) and uses it to solve a mundane, modern problem.",
+      "Create a monologue from the perspective of a place (a subway car, a bodega) that is tired of being a passive container for human drama and spiritual traffic.",
+      "Draft a 'recipe for reality' from the grimoire of one of Valentina's ancestors, blending practical magic, feminist theory, and kitchen-sink wisdom.",
+      "Imagine a support group for people who perceive the 'membrane' and the 'spill.' What are their shared grievances and coping mechanisms?"
+    ],
+    "technical": [
+      "Build a 'Membrane Map' generator: a tool that takes a user's location data and overlays a procedurally generated spiritual topography (echoes, thin spots, beacons, spiritual traffic).",
+      "Design a 'Spiritual Cross-Talk Simulator' that visualizes what happens when different belief systems (Santería, feminism, punk ethos) are forced to share altar-space, showing conflicts and synergies."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Isabel Allende",
+      "Ursula K. Le Guin",
+      "Gloria E. Anzaldúa",
+      "Terry Pratchett"
+    ]
+  },
+  "cover_prompt": "A young woman, a modern beacon, stands in a vibrant, cluttered apartment kitchen, her hands resting on a bottle of artisanal mezcal as spectral, grandmotherly hands made of woven light and memory reach from the ether to adjust her grip, performing a sacred, intergenerational ritual. The scene is dense with urban animism: a philodendron vine pulses with a soft inner light, subway maps on the wall shift like living capillaries, and household objects cast intelligent, lingering shadows, all set against the backdrop of a neon-drenched city night seen through a rain-streaked window. In the intricate, symbol-rich, and mystically charged style of Remedios Varo combined with the maximalist pattern work and feminist narrative density of Bisa Butler and the contemporary digital collage aesthetic of Lola Dupre. Book cover framing, a perfectly centered and balanced composition that feels both intimate and cosmic, viewed from a low, reverent angle as if witnessing a private sacrament. Cinematic volumetric lighting where domestic lamplight collides with ethereal spiritual luminescence, using a rich, warm color palette of amber, burnt orange, and terracotta, contrasted with deep teals and electric magentas from the city lights. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
