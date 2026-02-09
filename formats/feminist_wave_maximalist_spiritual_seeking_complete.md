@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The first time I saw the ghost of my grandmother, I was trying to steal a bottle of mezcal from a bodega on 103rd and Amsterdam. It was a Tuesday. The air smelled of wet pavement and overripe plantains. My hand was around the neck of the bottle, the glass cool and promising, when I felt the temperature in the aisle drop by twenty degrees. A scent cut through the grocery rot—gardenias and clove cigarettes, a combination I hadn’t smelled since childhood.
@@ -112,6 +114,8 @@ I didn’t pray. I issued a statement.
 
 From the street below, a siren wailed. In the wall, a pipe knocked. And in the new, clean space of the altar, a single, impossible gardenia petal appeared, white as a moon, smelling of another world.
 
+# Chapter 2
+
 ## CHAPTER 2
 
 The aunts arrived with the rain. Not a gentle rain, but a biblical, sideways downpour that turned the sidewalks into rivers and the gutters into gushing hymns. It was three days after Abuela’s visit. Three days of me trying to explain the ghost to myself while applying for data-entry jobs I knew would never call back. Three days of staring at the empty altar, the gardenia petal now brown and curled, waiting for instructions that didn’t come.
@@ -215,6 +219,8 @@ For the first time in years, I didn’t feel alone. I felt recruited. I felt ter
 I was no longer just a woman about to be evicted. I was a verb in training. The thought was so absurd, so immense, that I laughed a single, sharp note into the dark.
 
 From her spot on the floor, Tía Rosa chuckled. “Welcome to the work, *sobrina*. Now shut up and sleep. Tomorrow, we hunt echoes.”
+
+# Chapter 3
 
 ## CHAPTER 3
 
